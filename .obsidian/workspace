@@ -6,10 +6,30 @@
       {
         "id": "3e33a067b97df274",
         "type": "leaf",
+        "dimension": 69.74358974358974,
         "state": {
-          "type": "empty",
-          "state": {}
-        }
+          "type": "markdown",
+          "state": {
+            "file": "Flake/Index.md",
+            "mode": "source",
+            "source": false
+          }
+        },
+        "group": "7e3e613eda5ee18b"
+      },
+      {
+        "id": "39ebb34136d30b7d",
+        "type": "leaf",
+        "dimension": 30.256410256410255,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Flake/Index.md",
+            "mode": "source",
+            "source": false
+          }
+        },
+        "group": "7e3e613eda5ee18b"
       }
     ],
     "direction": "vertical"
@@ -65,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Flake/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,9 +105,11 @@
   },
   "active": "3e33a067b97df274",
   "lastOpenFiles": [
+    "Flake/Index.md",
+    "Flake/Untitled Diagram.svg",
+    "Main.md",
     "Untitled.md",
     "Gyro/dialects.md",
-    "Main.md",
     "Markdown++/Index.md"
   ]
 }

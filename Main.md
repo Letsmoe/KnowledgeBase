@@ -2,4 +2,4 @@
 - [[dialects]]
 
 # Markdown++
-- [[Index]]
+- [[Markdown++/Index]]
