@@ -1,0 +1,92 @@
+{
+  "main": {
+    "id": "6270e45fd62ef667",
+    "type": "split",
+    "children": [
+      {
+        "id": "3e33a067b97df274",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "65d7430dbb61b301",
+    "type": "split",
+    "children": [
+      {
+        "id": "f65bf3a1f159648b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5087b8e3cbe286cd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a4af9cd42367062f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "512594eaf6074060",
+    "type": "split",
+    "children": [
+      {
+        "id": "6b9f76562b19a926",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc6f4dad553e07b9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "3e33a067b97df274",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "Gyro/dialects.md",
+    "Main.md",
+    "Markdown++/Index.md"
+  ]
+}
