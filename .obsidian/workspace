@@ -6,7 +6,6 @@
       {
         "id": "3e33a067b97df274",
         "type": "leaf",
-        "dimension": 69.74358974358974,
         "state": {
           "type": "markdown",
           "state": {
@@ -14,22 +13,7 @@
             "mode": "source",
             "source": false
           }
-        },
-        "group": "7e3e613eda5ee18b"
-      },
-      {
-        "id": "39ebb34136d30b7d",
-        "type": "leaf",
-        "dimension": 30.256410256410255,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Flake/Index.md",
-            "mode": "source",
-            "source": false
-          }
-        },
-        "group": "7e3e613eda5ee18b"
+        }
       }
     ],
     "direction": "vertical"
@@ -107,9 +91,9 @@
   "lastOpenFiles": [
     "Flake/Index.md",
     "Flake/Untitled Diagram.svg",
+    "Gyro/dialects.md",
     "Main.md",
     "Untitled.md",
-    "Gyro/dialects.md",
     "Markdown++/Index.md"
   ]
 }
