@@ -7,9 +7,11 @@
         "id": "3e33a067b97df274",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "Fahrradreise Nepal/Erhaltene Impfungen.md"
+            "file": "Fahrradreise Nepal/Route.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -67,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fahrradreise Nepal/Erhaltene Impfungen.md",
+                "file": "Fahrradreise Nepal/Route.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,6 +89,7 @@
   },
   "active": "3e33a067b97df274",
   "lastOpenFiles": [
+    "Fahrradreise Nepal/Route.md",
     "Fahrradreise Nepal/Erhaltene Impfungen.md",
     "Fahrradreise Nepal/Impfungen.md",
     "Todo.md",
@@ -95,7 +98,6 @@
     "Fahrradreise Nepal/Impfinformationen/Typhus.md",
     "Fahrradreise Nepal/Impfinformationen/Hepatitis B.md",
     "Fahrradreise Nepal/Impfinformationen/Hepatitis A.md",
-    "Flake/Index.md",
-    "Flake/Untitled Diagram.svg"
+    "Flake/Index.md"
   ]
 }
