@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Flake/Index.md",
+            "file": "Fahrradreise Nepal/Impfinformationen/Japanische Enzephalitis.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flake/Index.md",
+                "file": "Fahrradreise Nepal/Impfinformationen/Japanische Enzephalitis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,11 +89,15 @@
   },
   "active": "3e33a067b97df274",
   "lastOpenFiles": [
+    "Fahrradreise Nepal/Impfinformationen/Japanische Enzephalitis.md",
+    "Fahrradreise Nepal/Impfungen.md",
+    "Fahrradreise Nepal/Impfinformationen/Tollwut.md",
+    "Fahrradreise Nepal/Impfinformationen/Typhus.md",
+    "Fahrradreise Nepal/Impfinformationen/Hepatitis B.md",
+    "Fahrradreise Nepal/Impfinformationen/Hepatitis A.md",
     "Flake/Index.md",
     "Flake/Untitled Diagram.svg",
     "Gyro/dialects.md",
-    "Main.md",
-    "Untitled.md",
-    "Markdown++/Index.md"
+    "Main.md"
   ]
 }
