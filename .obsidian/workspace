@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Fahrradreise Nepal/Impfungen.md",
+            "file": "Fahrradreise Nepal/Termine.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fahrradreise Nepal/Impfungen.md",
+                "file": "Fahrradreise Nepal/Termine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "3e33a067b97df274",
   "lastOpenFiles": [
+    "Fahrradreise Nepal/Termine.md",
     "Fahrradreise Nepal/Impfungen.md",
     "Fahrradreise Nepal/Route.md",
     "Fahrradreise Nepal/Erhaltene Impfungen.md",
@@ -97,7 +98,6 @@
     "Fahrradreise Nepal/Impfinformationen/Tollwut.md",
     "Fahrradreise Nepal/Impfinformationen/Typhus.md",
     "Fahrradreise Nepal/Impfinformationen/Hepatitis B.md",
-    "Fahrradreise Nepal/Impfinformationen/Hepatitis A.md",
-    "Flake/Index.md"
+    "Fahrradreise Nepal/Impfinformationen/Hepatitis A.md"
   ]
 }
