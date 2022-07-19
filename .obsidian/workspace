@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Flake/Syntax.md",
+            "file": "Fahrradreise Nepal/Werkzeug.md",
             "mode": "source",
             "source": false
           }
@@ -19,76 +19,62 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "65d7430dbb61b301",
-    "type": "split",
+    "id": "0db24e5db0f26d6f",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "f65bf3a1f159648b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "5087b8e3cbe286cd",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "a4af9cd42367062f",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
+        "id": "2bb1643eb7956a66",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "8fb639e7ddc6744f",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ]
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300
+    "currentTab": 0
   },
   "right": {
-    "id": "512594eaf6074060",
-    "type": "split",
+    "id": "672fe4e082021f37",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "6b9f76562b19a926",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "fc6f4dad553e07b9",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Flake/Syntax.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
+        "id": "173962bc36913f1c",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Fahrradreise Nepal/Werkzeug.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
           }
-        ]
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "currentTab": 0
   },
   "active": "3e33a067b97df274",
   "lastOpenFiles": [
+    "Flake/Syntax.md",
     "Fahrradreise Nepal/To-do.md",
     "Fahrradreise Nepal/Erhaltene Impfungen.md",
     "Fahrradreise Nepal/Impfungen.md",
@@ -97,7 +83,6 @@
     "README.md",
     "Main.md",
     "Fahrradreise Nepal/assets/Pasted image 20220705213640.png",
-    "Fahrradreise Nepal/Termine.md",
-    "Todo.md"
+    "Fahrradreise Nepal/Termine.md"
   ]
 }
