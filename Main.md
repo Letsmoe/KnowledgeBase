@@ -1,5 +1,5 @@
 # Gyro
-- [[dialects]]
+- [[Dialects]]
 
 # Markdown++
 - [[Markdown++/Index]]

@@ -8,5 +8,6 @@
     "margin": "0",
     "downscalePercent": 100
   },
-  "attachmentFolderPath": "Fahrradreise Nepal/assets"
+  "attachmentFolderPath": "Fahrradreise Nepal/assets",
+  "alwaysUpdateLinks": true
 }
