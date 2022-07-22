@@ -9,7 +9,11 @@
         "state": {
           "type": "markdown",
           "state": {
+<<<<<<< Updated upstream
             "file": "Fahrradreise Nepal/Packliste.md",
+=======
+            "file": "Fahrradreise Nepal/Werkzeug.md",
+>>>>>>> Stashed changes
             "mode": "source",
             "source": false
           }
@@ -19,47 +23,46 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "65d7430dbb61b301",
-    "type": "split",
+    "id": "3d69f18bcbbf40aa",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "f65bf3a1f159648b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "5087b8e3cbe286cd",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "a4af9cd42367062f",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
+        "id": "d0a876363f8b017e",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "756a7bae9a02e9d2",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ]
+        }
       }
     ],
+<<<<<<< Updated upstream
     "direction": "horizontal",
     "width": 300
+=======
+    "currentTab": 0
+>>>>>>> Stashed changes
   },
   "right": {
-    "id": "512594eaf6074060",
-    "type": "split",
+    "id": "839762c26ec96f6c",
+    "type": "mobile-drawer",
     "children": [
       {
+<<<<<<< Updated upstream
         "id": "6b9f76562b19a926",
         "type": "tabs",
         "children": [
@@ -79,18 +82,34 @@
                 "unlinkedCollapsed": true
               }
             }
+=======
+        "id": "6ffb655fdf525125",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Fahrradreise Nepal/Werkzeug.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+>>>>>>> Stashed changes
           }
-        ]
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "currentTab": 0
   },
   "active": "3e33a067b97df274",
   "lastOpenFiles": [
+<<<<<<< Updated upstream
     "Main.md",
     "Fahrradreise Nepal/Packliste.md",
+=======
+>>>>>>> Stashed changes
     "IBCornelsen/Felder.md",
     "Gyro/Syntax.md",
     "Gyro/Dialects.md",
@@ -98,6 +117,12 @@
     "Fahrradreise Nepal/Termine.md",
     "Fahrradreise Nepal/Route.md",
     "Fahrradreise Nepal/To-do.md",
+<<<<<<< Updated upstream
     "Todo.md"
+=======
+    "Todo.md",
+    "Fahrradreise Nepal/Impfungen.md",
+    "Fahrradreise Nepal/Erhaltene Impfungen.md"
+>>>>>>> Stashed changes
   ]
 }
