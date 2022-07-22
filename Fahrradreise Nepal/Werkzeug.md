@@ -1,0 +1,18 @@
+# Werkzeug
+- Imbussschlüssel 5mm - Alle Befestigungsschrauben
+- Imbussschlüssel 4mm - Lowrider Verschraubung
+- Gabelschlüssel 8mm - Lowrider Verschraubung Mutter
+- Gabelschlüssel 10mm - Frontschutzblech
+- Imbussschlüssel 3mm - Umwerfer hinten unten
+- T25 - Bremsscheiben
+- Imbussschlüssel 2mm - Anschlag Kette hinten
+- Imbussschlüssel 6mm - Kettenblatt vorne
+- Nietdrücker - Kette
+- Speichenschlüssel - Speichen
+- Reifenheber
+- Ersatzschlauch
+- Ersatzspeichen (Kevlar)
+- Bremskabel
+- Schaltkabel
+- Zange zum schneiden
+- Endkappen zum zusammen kneifen
