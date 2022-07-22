@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "IBCornelsen/Felder.md",
+            "file": "Fahrradreise Nepal/Packliste.md",
             "mode": "source",
             "source": false
           }
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "512594eaf6074060",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IBCornelsen/Felder.md",
+                "file": "Fahrradreise Nepal/Packliste.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,15 +89,15 @@
   },
   "active": "3e33a067b97df274",
   "lastOpenFiles": [
+    "Main.md",
+    "Fahrradreise Nepal/Packliste.md",
+    "IBCornelsen/Felder.md",
     "Gyro/Syntax.md",
     "Gyro/Dialects.md",
     "conflict-files-obsidian-git.md",
     "Fahrradreise Nepal/Termine.md",
     "Fahrradreise Nepal/Route.md",
     "Fahrradreise Nepal/To-do.md",
-    "Todo.md",
-    "Fahrradreise Nepal/Impfungen.md",
-    "Fahrradreise Nepal/Erhaltene Impfungen.md",
-    "Flake/Syntax.md"
+    "Todo.md"
   ]
 }
