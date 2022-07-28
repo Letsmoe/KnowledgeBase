@@ -4,16 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "3e33a067b97df274",
+        "id": "8c61b873f56627d2",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-<<<<<<< Updated upstream
-            "file": "Fahrradreise Nepal/Packliste.md",
-=======
-            "file": "Fahrradreise Nepal/Werkzeug.md",
->>>>>>> Stashed changes
+            "file": "IBCornelsen/Flow.md",
             "mode": "source",
             "source": false
           }
@@ -23,46 +19,47 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "3d69f18bcbbf40aa",
-    "type": "mobile-drawer",
+    "id": "65d7430dbb61b301",
+    "type": "split",
     "children": [
       {
-        "id": "d0a876363f8b017e",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
-      },
-      {
-        "id": "756a7bae9a02e9d2",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
+        "id": "f65bf3a1f159648b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5087b8e3cbe286cd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a4af9cd42367062f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
           }
-        }
+        ]
       }
     ],
-<<<<<<< Updated upstream
     "direction": "horizontal",
     "width": 300
-=======
-    "currentTab": 0
->>>>>>> Stashed changes
   },
   "right": {
-    "id": "839762c26ec96f6c",
-    "type": "mobile-drawer",
+    "id": "512594eaf6074060",
+    "type": "split",
     "children": [
       {
-<<<<<<< Updated upstream
         "id": "6b9f76562b19a926",
         "type": "tabs",
         "children": [
@@ -72,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fahrradreise Nepal/Packliste.md",
+                "file": "IBCornelsen/Flow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,47 +79,25 @@
                 "unlinkedCollapsed": true
               }
             }
-=======
-        "id": "6ffb655fdf525125",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "file": "Fahrradreise Nepal/Werkzeug.md",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
->>>>>>> Stashed changes
           }
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
   },
-  "active": "3e33a067b97df274",
+  "active": "8c61b873f56627d2",
   "lastOpenFiles": [
-<<<<<<< Updated upstream
-    "Main.md",
-    "Fahrradreise Nepal/Packliste.md",
-=======
->>>>>>> Stashed changes
-    "IBCornelsen/Felder.md",
-    "Gyro/Syntax.md",
+    "IBCornelsen/Untitled Diagram.svg",
+    "IBCornelsen/Flow.md",
     "Gyro/Dialects.md",
-    "conflict-files-obsidian-git.md",
-    "Fahrradreise Nepal/Termine.md",
-    "Fahrradreise Nepal/Route.md",
-    "Fahrradreise Nepal/To-do.md",
-<<<<<<< Updated upstream
-    "Todo.md"
-=======
-    "Todo.md",
-    "Fahrradreise Nepal/Impfungen.md",
-    "Fahrradreise Nepal/Erhaltene Impfungen.md"
->>>>>>> Stashed changes
+    "IBCornelsen/Änderungen.md",
+    "IBCornelsen/Felder.md",
+    "2022-07-27.md",
+    "Flake/Syntax.md",
+    "Fahrradreise Nepal/Packliste.md",
+    "Fahrradreise Nepal/Werkzeug.md",
+    "Main.md"
   ]
 }
