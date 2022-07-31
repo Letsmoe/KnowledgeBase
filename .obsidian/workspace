@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Fahrradreise Nepal/Werkzeug.md",
+            "file": "Reiseapotheke.md",
             "mode": "source",
             "source": false
           }
@@ -58,7 +58,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Fahrradreise Nepal/Werkzeug.md",
+            "file": "Reiseapotheke.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -74,6 +74,7 @@
   },
   "active": "bdbbf23daa86ec1a",
   "lastOpenFiles": [
+    "Fahrradreise Nepal/Werkzeug.md",
     "Fahrradreise Nepal/Packliste.md",
     "Reiseapotheke.md"
   ]
