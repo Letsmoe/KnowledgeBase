@@ -4,65 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "bdbbf23daa86ec1a",
+        "id": "2db86fde2806f4ff",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Reiseapotheke.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "6abeb9e7100a59fc",
-    "type": "mobile-drawer",
+    "id": "29510b263809d252",
+    "type": "split",
     "children": [
       {
-        "id": "93f1d85158c343e3",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
-      },
-      {
-        "id": "f27ed54ce0dbd411",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
-          }
-        }
-      }
-    ],
-    "currentTab": 0
-  },
-  "right": {
-    "id": "c6c0e0a730bcf8eb",
-    "type": "mobile-drawer",
-    "children": [
-      {
-        "id": "6b9f76562b19a926",
+        "id": "a2dac38484bb2e84",
         "type": "tabs",
         "children": [
           {
-            "id": "fc6f4dad553e07b9",
+            "id": "f978488d5ea6456f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "961316d1e8d47adc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "05807f409b67d1a2",
+    "type": "split",
+    "children": [
+      {
+        "id": "03d9eff56f3f5102",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c5b92269b014cdb9",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -73,22 +75,24 @@
               }
             }
           }
-		]
-        }
-	],
-    "currentTab": 0
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
   },
-  "active": "bdbbf23daa86ec1a",
+  "active": "2db86fde2806f4ff",
   "lastOpenFiles": [
+    "IBCornelsen/Untitled Diagram.svg",
+    "IBCornelsen/Flow.md",
+    "Projects/Docks/README.md.md",
+    "Reiseapotheke.md",
     "Projects/Gyro/README.md",
     "Projects/README.md",
     "Gyro.md",
     "Projects/MarkdownPlus/README.md",
     "Projects/Gyro/Math/README.md",
-    "Projects/Snowblind/README.md",
-    "Gyro/Math.md",
-    "Todo.md",
-    "README.md",
-    "Main.md"
+    "Projects/Snowblind/README.md"
   ]
 }
