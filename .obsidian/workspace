@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Publishing/API.md",
+            "file": "Reiseblog/Tag 4.md",
             "mode": "source",
             "source": false
           }
@@ -19,50 +19,57 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "6abeb9e7100a59fc",
-    "type": "mobile-drawer",
+    "id": "97038c70cc6babd8",
+    "type": "split",
     "children": [
       {
-        "id": "93f1d85158c343e3",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
-      },
-      {
-        "id": "f27ed54ce0dbd411",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
-          }
-        }
-      }
-    ],
-    "currentTab": 0
-  },
-  "right": {
-    "id": "c6c0e0a730bcf8eb",
-    "type": "mobile-drawer",
-    "children": [
-      {
-        "id": "6b9f76562b19a926",
+        "id": "ad11b79bfcf62f57",
         "type": "tabs",
         "children": [
           {
-            "id": "fc6f4dad553e07b9",
+            "id": "8dbc243aa1a5a5da",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "4af843b639ccd460",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bdf08eb4fee8fbdd",
+    "type": "split",
+    "children": [
+      {
+        "id": "90409c4dccab893a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "23c668ddea580b05",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Publishing/API.md",
+                "file": "Reiseblog/Tag 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -76,19 +83,21 @@
         ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
   },
   "active": "bdbbf23daa86ec1a",
   "lastOpenFiles": [
+    "Reiseblog/Tag 3.md",
+    "Reiseblog/Tag 2.md",
+    "Reiseblog/Tag 1.md",
+    "Projects/Flake/Index.md",
+    "Publishing/API.md",
     "Publishing/README.md",
     "Projects/Gyro/README.md",
     "Price Compare/structure.md",
     "Price Compare/README.md",
-    "Bucket List.md",
-    "Einkaufsliste.md",
-    "rex/Main.md",
-    "Reiseapotheke.md",
-    "Projects/README.md",
-    "Gyro.md"
+    "Bucket List.md"
   ]
 }
