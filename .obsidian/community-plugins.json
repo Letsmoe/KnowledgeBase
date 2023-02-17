@@ -3,5 +3,6 @@
   "templater-obsidian",
   "drawio-obsidian",
   "obsidian-plantuml",
-  "nldates-obsidian"
+  "nldates-obsidian",
+  "obsidian-git"
 ]
